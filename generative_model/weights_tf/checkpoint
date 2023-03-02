@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/bytedance/LearningProjects/theory_deep_learning/generative_model/weights_tf/"
+all_model_checkpoint_paths: "/Users/bytedance/LearningProjects/theory_deep_learning/generative_model/weights_tf/"
